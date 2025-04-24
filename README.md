@@ -1,12 +1,32 @@
-# React + Vite
+# Heating Circuit Modal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains part 1 of the design and UI challenge for autarc handed in by Leon Nothegger.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Part 1 – Heating Circuit Modal
 
-## Expanding the ESLint configuration
+A responsive, modern modal for planning heating circuits, with a focus on:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Clear visual hierarchy
+- Intuitive grouping of fields
+- Consistent UI with Tailwind CSS
+
+
+<img width="807" alt="Screenshot 2025-04-24 at 11 07 14" src="https://github.com/user-attachments/assets/21d0a49e-94d3-4e69-8bf5-5d4a7aea6484" />
+
+## Potential Next Steps
+
+- Implement functionality
+- Swap placeholder design tokens with actual ones
+- Integrate into the project
+
+## Dependencies 
+- react
+- react-dom
+- lucide-react
+
+## 🚀 Start the Project
+
+```bash
+npm install
+npm run dev
